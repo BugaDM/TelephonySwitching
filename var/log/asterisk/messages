@@ -1,0 +1,690 @@
+[Mar 24 15:52:44] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 15:52:45] NOTICE[2247] cdr.c: CDR simple logging enabled.
+[Mar 24 15:52:45] NOTICE[2247] loader.c: 196 modules will be loaded.
+[Mar 24 15:52:49] NOTICE[2247] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 15:52:49] NOTICE[2247] config.c: Registered Config Engine sqlite3
+[Mar 24 15:52:49] NOTICE[2247] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 15:52:49] NOTICE[2247] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 15:52:49] NOTICE[2247] pbx_ael.c: Starting AEL load process.
+[Mar 24 15:52:49] NOTICE[2247] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 15:52:49] NOTICE[2247] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 15:52:49] NOTICE[2247] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 15:52:49] NOTICE[2247] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 15:52:49] NOTICE[2247] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 15:52:49] ERROR[2247] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 16:35:20] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 16:35:20] NOTICE[2930] cdr.c: CDR simple logging enabled.
+[Mar 24 16:35:20] NOTICE[2930] loader.c: 196 modules will be loaded.
+[Mar 24 16:35:24] NOTICE[2930] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 16:35:24] NOTICE[2930] config.c: Registered Config Engine sqlite3
+[Mar 24 16:35:24] NOTICE[2930] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 16:35:24] NOTICE[2930] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 16:35:24] NOTICE[2930] pbx_ael.c: Starting AEL load process.
+[Mar 24 16:35:24] NOTICE[2930] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:35:24] NOTICE[2930] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:35:24] NOTICE[2930] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:35:24] NOTICE[2930] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:35:24] NOTICE[2930] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:35:24] ERROR[2930] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 16:38:49] NOTICE[2959] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 16:39:13] NOTICE[2959][C-00000000] chan_sip.c: Call from '' (127.0.0.1:5061) to extension '700' rejected because extension not found in context 'default'.
+[Mar 24 16:39:45] WARNING[2959] chan_sip.c: Retransmission timeout reached on transmission c8cb1e97-a9d0-e411-8df3-50465d752195@pc-ip.122 for seqno 1 (Critical Response) -- See https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions
+Packet timed out after 32000ms with no response
+[Mar 24 16:41:21] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 16:41:21] NOTICE[3167] cdr.c: CDR simple logging enabled.
+[Mar 24 16:41:21] NOTICE[3167] loader.c: 196 modules will be loaded.
+[Mar 24 16:41:22] NOTICE[3167] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 16:41:22] NOTICE[3167] config.c: Registered Config Engine sqlite3
+[Mar 24 16:41:22] NOTICE[3167] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 16:41:22] NOTICE[3194] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 16:41:22] NOTICE[3167] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 16:41:22] NOTICE[3167] pbx_ael.c: Starting AEL load process.
+[Mar 24 16:41:22] NOTICE[3167] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:41:22] NOTICE[3167] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:41:22] NOTICE[3167] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:41:22] NOTICE[3167] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:41:22] NOTICE[3167] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:41:22] ERROR[3167] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 16:42:16] NOTICE[3194][C-00000000] chan_sip.c: Call from '' (127.0.0.1:5062) to extension 'localhost:5020' rejected because extension not found in context 'default'.
+[Mar 24 16:42:34] NOTICE[3194][C-00000001] chan_sip.c: Call from '' (127.0.0.1:5063) to extension '700' rejected because extension not found in context 'default'.
+[Mar 24 16:42:48] WARNING[3194] chan_sip.c: Retransmission timeout reached on transmission 68cb5704-aad0-e411-8df3-50465d752195@pc-ip.122 for seqno 1 (Critical Response) -- See https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions
+Packet timed out after 32000ms with no response
+[Mar 24 16:43:06] WARNING[3194] chan_sip.c: Retransmission timeout reached on transmission 44996b0f-aad0-e411-8df3-50465d752195@pc-ip.122 for seqno 1 (Critical Response) -- See https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions
+Packet timed out after 31999ms with no response
+[Mar 24 16:54:27] NOTICE[3194][C-00000005] chan_sip.c: Call from '100' (172.19.45.122:5060) to extension 'localhost:5020' rejected because extension not found in context 'phones'.
+[Mar 24 16:57:37] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 16:57:37] NOTICE[3403] cdr.c: CDR simple logging enabled.
+[Mar 24 16:57:37] NOTICE[3403] loader.c: 196 modules will be loaded.
+[Mar 24 16:57:37] NOTICE[3403] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 16:57:37] NOTICE[3403] config.c: Registered Config Engine sqlite3
+[Mar 24 16:57:38] NOTICE[3403] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 16:57:38] NOTICE[3430] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 16:57:38] NOTICE[3403] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 16:57:38] NOTICE[3403] pbx_ael.c: Starting AEL load process.
+[Mar 24 16:57:38] NOTICE[3403] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:57:38] NOTICE[3403] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:57:38] NOTICE[3403] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:57:38] NOTICE[3403] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:57:38] NOTICE[3403] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:57:38] ERROR[3403] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 16:59:24] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 16:59:24] NOTICE[3464] cdr.c: CDR simple logging enabled.
+[Mar 24 16:59:24] NOTICE[3464] loader.c: 196 modules will be loaded.
+[Mar 24 16:59:24] NOTICE[3464] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 16:59:24] NOTICE[3464] config.c: Registered Config Engine sqlite3
+[Mar 24 16:59:24] NOTICE[3464] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 16:59:24] NOTICE[3491] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 16:59:24] NOTICE[3464] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 16:59:24] NOTICE[3464] pbx_ael.c: Starting AEL load process.
+[Mar 24 16:59:24] NOTICE[3464] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:59:24] NOTICE[3464] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:59:24] NOTICE[3464] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:59:24] NOTICE[3464] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:59:24] NOTICE[3464] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 16:59:24] ERROR[3464] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 16:59:34] WARNING[3508][C-00000000] app_festival.c: festival_client: connect to server failed
+[Mar 24 17:00:02] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 17:00:03] NOTICE[3524] cdr.c: CDR simple logging enabled.
+[Mar 24 17:00:03] NOTICE[3524] loader.c: 196 modules will be loaded.
+[Mar 24 17:00:03] NOTICE[3524] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 17:00:03] NOTICE[3524] config.c: Registered Config Engine sqlite3
+[Mar 24 17:00:03] NOTICE[3524] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 17:00:03] NOTICE[3551] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 17:00:03] NOTICE[3524] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 17:00:03] NOTICE[3524] pbx_ael.c: Starting AEL load process.
+[Mar 24 17:00:03] NOTICE[3524] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:00:03] NOTICE[3524] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:00:03] NOTICE[3524] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:00:03] NOTICE[3524] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:00:03] NOTICE[3524] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:00:03] ERROR[3524] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 17:00:12] WARNING[3568][C-00000000] app_festival.c: festival_client: connect to server failed
+[Mar 24 17:00:19] NOTICE[3551][C-00000001] chan_sip.c: Call from '100' (172.19.45.122:5060) to extension 'localhost:5020' rejected because extension not found in context 'phones'.
+[Mar 24 17:00:24] WARNING[3582][C-00000002] app_festival.c: festival_client: connect to server failed
+[Mar 24 17:22:33] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 17:22:33] NOTICE[3663] cdr.c: CDR simple logging enabled.
+[Mar 24 17:22:33] NOTICE[3663] loader.c: 196 modules will be loaded.
+[Mar 24 17:22:33] NOTICE[3663] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 17:22:33] NOTICE[3663] config.c: Registered Config Engine sqlite3
+[Mar 24 17:22:33] NOTICE[3663] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 17:22:33] NOTICE[3690] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 17:22:33] NOTICE[3663] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 17:22:33] NOTICE[3663] pbx_ael.c: Starting AEL load process.
+[Mar 24 17:22:33] NOTICE[3663] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:22:33] NOTICE[3663] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:22:33] NOTICE[3663] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:22:33] NOTICE[3663] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:22:33] NOTICE[3663] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:22:33] ERROR[3663] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 17:22:44] NOTICE[3690][C-00000001] acl.c: SIP Peer ACL: Rejecting '127.0.0.1' due to a failure to pass ACL '(BASELINE)'
+[Mar 24 17:22:44] NOTICE[3690][C-00000001] chan_sip.c: Failed to authenticate device "NOMBREUSUARIO" <sip:100@127.0.0.1:5020>;tag=as03afcfec
+[Mar 24 17:22:44] WARNING[3690][C-00000000] chan_sip.c: Received response: "Forbidden" from '"NOMBREUSUARIO" <sip:100@127.0.0.1:5020>;tag=as03afcfec'
+[Mar 24 17:25:35] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 17:25:35] NOTICE[3768] cdr.c: CDR simple logging enabled.
+[Mar 24 17:25:35] NOTICE[3768] loader.c: 196 modules will be loaded.
+[Mar 24 17:25:35] NOTICE[3768] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 17:25:36] NOTICE[3768] config.c: Registered Config Engine sqlite3
+[Mar 24 17:25:36] NOTICE[3768] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 17:25:36] NOTICE[3795] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 17:25:36] NOTICE[3768] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 17:25:36] NOTICE[3768] pbx_ael.c: Starting AEL load process.
+[Mar 24 17:25:36] NOTICE[3768] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:25:36] NOTICE[3768] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:25:36] NOTICE[3768] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:25:36] NOTICE[3768] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:25:36] NOTICE[3768] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:25:36] ERROR[3768] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 17:25:50] NOTICE[3795][C-00000000] chan_sip.c: Call from '100' (172.19.45.122:5060) to extension 'localhost:5020' rejected because extension not found in context 'phones'.
+[Mar 24 17:26:42] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 17:26:42] NOTICE[3817] cdr.c: CDR simple logging enabled.
+[Mar 24 17:26:42] NOTICE[3817] loader.c: 196 modules will be loaded.
+[Mar 24 17:26:42] NOTICE[3817] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 17:26:42] NOTICE[3817] config.c: Registered Config Engine sqlite3
+[Mar 24 17:26:42] NOTICE[3817] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 17:26:42] NOTICE[3844] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 17:26:42] NOTICE[3817] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 17:26:42] NOTICE[3817] pbx_ael.c: Starting AEL load process.
+[Mar 24 17:26:42] NOTICE[3817] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:26:42] NOTICE[3817] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:26:42] NOTICE[3817] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:26:42] NOTICE[3817] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:26:42] NOTICE[3817] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:26:42] ERROR[3817] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 17:26:50] WARNING[3861][C-00000000] chan_sip.c: Purely numeric hostname (700), and not a peer--rejecting!
+[Mar 24 17:26:50] WARNING[3861][C-00000000] app_dial.c: Unable to create channel of type 'SIP' (cause 20 - Subscriber absent)
+[Mar 24 17:26:52] WARNING[3864][C-00000001] chan_sip.c: Purely numeric hostname (700), and not a peer--rejecting!
+[Mar 24 17:26:52] WARNING[3864][C-00000001] app_dial.c: Unable to create channel of type 'SIP' (cause 20 - Subscriber absent)
+[Mar 24 17:27:28] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 17:27:28] NOTICE[3870] cdr.c: CDR simple logging enabled.
+[Mar 24 17:27:28] NOTICE[3870] loader.c: 196 modules will be loaded.
+[Mar 24 17:27:29] NOTICE[3870] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 17:27:29] NOTICE[3870] config.c: Registered Config Engine sqlite3
+[Mar 24 17:27:29] NOTICE[3870] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 17:27:29] NOTICE[3897] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 17:27:29] NOTICE[3870] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 17:27:29] NOTICE[3870] pbx_ael.c: Starting AEL load process.
+[Mar 24 17:27:29] NOTICE[3870] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:27:29] NOTICE[3870] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:27:29] NOTICE[3870] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:27:29] NOTICE[3870] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:27:29] NOTICE[3870] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:27:29] ERROR[3870] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 17:27:42] NOTICE[3897][C-00000000] chan_sip.c: Call from '100' (172.19.45.122:5060) to extension 'localhost:5020' rejected because extension not found in context 'phones'.
+[Mar 24 17:28:31] NOTICE[3897][C-00000001] chan_sip.c: Failed to authenticate on INVITE to '"NOMBREUSUARIO" <sip:100@172.19.45.122:5020>;tag=as0f811e7c'
+[Mar 24 17:29:42] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 17:29:42] NOTICE[3927] cdr.c: CDR simple logging enabled.
+[Mar 24 17:29:42] NOTICE[3927] loader.c: 196 modules will be loaded.
+[Mar 24 17:29:43] NOTICE[3927] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 17:29:43] NOTICE[3927] config.c: Registered Config Engine sqlite3
+[Mar 24 17:29:43] NOTICE[3927] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 17:29:43] NOTICE[3954] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 17:29:43] NOTICE[3927] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 17:29:43] NOTICE[3927] pbx_ael.c: Starting AEL load process.
+[Mar 24 17:29:43] NOTICE[3927] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:29:43] NOTICE[3927] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:29:43] NOTICE[3927] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:29:43] NOTICE[3927] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:29:43] NOTICE[3927] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:29:43] WARNING[3927] pbx_config.c: Can't use 'next' priority on the first entry at line 6 of extensions.conf!
+[Mar 24 17:29:43] ERROR[3927] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 17:29:58] NOTICE[3954][C-00000000] chan_sip.c: Failed to authenticate on INVITE to '"NOMBREUSUARIO" <sip:100@172.19.45.122:5020>;tag=as56952309'
+[Mar 24 17:30:31] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 17:30:31] NOTICE[3978] cdr.c: CDR simple logging enabled.
+[Mar 24 17:30:31] NOTICE[3978] loader.c: 196 modules will be loaded.
+[Mar 24 17:30:31] NOTICE[3978] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 17:30:31] NOTICE[3978] config.c: Registered Config Engine sqlite3
+[Mar 24 17:30:31] NOTICE[3978] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 17:30:31] NOTICE[4005] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 17:30:31] NOTICE[3978] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 17:30:31] NOTICE[3978] pbx_ael.c: Starting AEL load process.
+[Mar 24 17:30:31] NOTICE[3978] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:30:31] NOTICE[3978] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:30:31] NOTICE[3978] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:30:31] NOTICE[3978] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:30:31] NOTICE[3978] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:30:31] WARNING[3978] pbx_config.c: Can't use 'next' priority on the first entry at line 6 of extensions.conf!
+[Mar 24 17:30:31] ERROR[3978] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 17:30:48] WARNING[4022][C-00000000] chan_sip.c: Purely numeric hostname (700), and not a peer--rejecting!
+[Mar 24 17:30:48] WARNING[4022][C-00000000] app_dial.c: Unable to create channel of type 'SIP' (cause 20 - Subscriber absent)
+[Mar 24 17:31:55] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 17:31:55] NOTICE[4029] cdr.c: CDR simple logging enabled.
+[Mar 24 17:31:55] NOTICE[4029] loader.c: 196 modules will be loaded.
+[Mar 24 17:31:55] NOTICE[4029] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 17:31:55] NOTICE[4029] config.c: Registered Config Engine sqlite3
+[Mar 24 17:31:55] NOTICE[4029] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 17:31:55] NOTICE[4056] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 17:31:55] NOTICE[4029] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 17:31:55] NOTICE[4029] pbx_ael.c: Starting AEL load process.
+[Mar 24 17:31:55] NOTICE[4029] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:31:55] NOTICE[4029] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:31:55] NOTICE[4029] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:31:55] NOTICE[4029] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:31:55] NOTICE[4029] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:31:55] ERROR[4029] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 17:32:03] WARNING[4073][C-00000000] chan_sip.c: Purely numeric hostname (700), and not a peer--rejecting!
+[Mar 24 17:32:03] WARNING[4073][C-00000000] app_dial.c: Unable to create channel of type 'SIP' (cause 20 - Subscriber absent)
+[Mar 24 17:32:07] WARNING[4085][C-00000001] chan_sip.c: Purely numeric hostname (700), and not a peer--rejecting!
+[Mar 24 17:32:07] WARNING[4085][C-00000001] app_dial.c: Unable to create channel of type 'SIP' (cause 20 - Subscriber absent)
+[Mar 24 17:32:21] WARNING[4095][C-00000002] chan_sip.c: Purely numeric hostname (700), and not a peer--rejecting!
+[Mar 24 17:32:21] WARNING[4095][C-00000002] app_dial.c: Unable to create channel of type 'SIP' (cause 20 - Subscriber absent)
+[Mar 24 17:32:47] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 24 17:32:47] NOTICE[4108] cdr.c: CDR simple logging enabled.
+[Mar 24 17:32:47] NOTICE[4108] loader.c: 196 modules will be loaded.
+[Mar 24 17:32:48] NOTICE[4108] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 24 17:32:48] NOTICE[4108] config.c: Registered Config Engine sqlite3
+[Mar 24 17:32:48] NOTICE[4108] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 24 17:32:48] NOTICE[4135] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 24 17:32:48] NOTICE[4108] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 24 17:32:48] NOTICE[4108] pbx_ael.c: Starting AEL load process.
+[Mar 24 17:32:48] NOTICE[4108] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:32:48] NOTICE[4108] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:32:48] NOTICE[4108] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:32:48] NOTICE[4108] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:32:48] NOTICE[4108] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 24 17:32:48] ERROR[4108] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 24 17:32:56] NOTICE[4135][C-00000001] acl.c: SIP Peer ACL: Rejecting '127.0.0.1' due to a failure to pass ACL '(BASELINE)'
+[Mar 24 17:32:56] NOTICE[4135][C-00000001] chan_sip.c: Failed to authenticate device "NOMBREUSUARIO" <sip:100@127.0.0.1:5020>;tag=as2fa2a262
+[Mar 24 17:32:56] WARNING[4135][C-00000000] chan_sip.c: Received response: "Forbidden" from '"NOMBREUSUARIO" <sip:100@127.0.0.1:5020>;tag=as2fa2a262'
+[Mar 24 17:33:09] NOTICE[4135][C-00000003] acl.c: SIP Peer ACL: Rejecting '127.0.0.1' due to a failure to pass ACL '(BASELINE)'
+[Mar 24 17:33:09] NOTICE[4135][C-00000003] chan_sip.c: Failed to authenticate device "NOMBREUSUARIO" <sip:100@127.0.0.1:5020>;tag=as005cae49
+[Mar 24 17:33:09] WARNING[4135][C-00000002] chan_sip.c: Received response: "Forbidden" from '"NOMBREUSUARIO" <sip:100@127.0.0.1:5020>;tag=as005cae49'
+[Mar 26 13:09:09] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 26 13:09:10] NOTICE[2331] cdr.c: CDR simple logging enabled.
+[Mar 26 13:09:10] NOTICE[2331] loader.c: 196 modules will be loaded.
+[Mar 26 13:09:15] NOTICE[2331] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 26 13:09:15] NOTICE[2331] config.c: Registered Config Engine sqlite3
+[Mar 26 13:09:16] NOTICE[2331] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 26 13:09:16] NOTICE[2360] chan_sip.c: Peer '100' is now Reachable. (23ms / 2000ms)
+[Mar 26 13:09:16] NOTICE[2331] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 26 13:09:16] NOTICE[2331] pbx_ael.c: Starting AEL load process.
+[Mar 26 13:09:16] NOTICE[2331] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:09:16] NOTICE[2331] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:09:16] NOTICE[2331] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:09:16] NOTICE[2331] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:09:16] NOTICE[2331] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:09:16] ERROR[2331] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 26 13:10:47] NOTICE[2360][C-00000002] chan_sip.c: Call from '100' (172.19.45.122:5060) to extension 'localhost:5020' rejected because extension not found in context 'phones'.
+[Mar 26 13:14:59] NOTICE[2360][C-00000004] chan_sip.c: Call from '100' (172.19.45.122:5060) to extension 'localhost:5020' rejected because extension not found in context 'phones'.
+[Mar 26 13:16:34] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 26 13:16:34] NOTICE[2515] cdr.c: CDR simple logging enabled.
+[Mar 26 13:16:34] NOTICE[2515] loader.c: 196 modules will be loaded.
+[Mar 26 13:16:34] NOTICE[2515] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 26 13:16:34] NOTICE[2515] config.c: Registered Config Engine sqlite3
+[Mar 26 13:16:34] NOTICE[2515] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 26 13:16:34] NOTICE[2542] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Mar 26 13:16:34] NOTICE[2515] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 26 13:16:34] NOTICE[2515] pbx_ael.c: Starting AEL load process.
+[Mar 26 13:16:34] NOTICE[2515] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:16:34] NOTICE[2515] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:16:34] NOTICE[2515] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:16:34] NOTICE[2515] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:16:34] NOTICE[2515] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:16:34] ERROR[2515] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 26 13:21:23] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Mar 26 13:21:23] NOTICE[2251] cdr.c: CDR simple logging enabled.
+[Mar 26 13:21:23] NOTICE[2251] loader.c: 196 modules will be loaded.
+[Mar 26 13:21:27] NOTICE[2251] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Mar 26 13:21:28] NOTICE[2251] config.c: Registered Config Engine sqlite3
+[Mar 26 13:21:28] NOTICE[2251] chan_skinny.c: Configuring skinny from skinny.conf
+[Mar 26 13:21:28] NOTICE[2278] chan_sip.c: Peer '100' is now Reachable. (7ms / 2000ms)
+[Mar 26 13:21:28] NOTICE[2251] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Mar 26 13:21:28] NOTICE[2251] pbx_ael.c: Starting AEL load process.
+[Mar 26 13:21:28] NOTICE[2251] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:21:28] NOTICE[2251] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:21:28] NOTICE[2251] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:21:28] NOTICE[2251] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:21:28] NOTICE[2251] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Mar 26 13:21:28] ERROR[2251] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Mar 26 13:39:33] WARNING[2496][C-00000004] app_dial.c: Unable to create channel of type 'SIP' (cause 20 - Subscriber absent)
+[Mar 26 13:45:57] NOTICE[2278][C-00000005] chan_sip.c: Call from '' (172.19.45.106:5060) to extension '100' rejected because extension not found in context 'default'.
+[Mar 26 13:46:20] NOTICE[2278][C-00000006] chan_sip.c: Call from '' (172.19.45.106:5060) to extension '100' rejected because extension not found in context 'default'.
+[Mar 26 13:46:29] WARNING[2278] chan_sip.c: Retransmission timeout reached on transmission ae2b6ab7-23d2-e411-84fe-08606e79f22c@pc-ip.106 for seqno 1 (Critical Response) -- See https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions
+Packet timed out after 32000ms with no response
+[Mar 26 13:46:52] WARNING[2278] chan_sip.c: Retransmission timeout reached on transmission 1ab197c5-23d2-e411-84fe-08606e79f22c@pc-ip.106 for seqno 1 (Critical Response) -- See https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions
+Packet timed out after 31999ms with no response
+[Mar 26 13:46:57] NOTICE[2278][C-00000007] chan_sip.c: Call from '' (172.19.45.106:5060) to extension '101' rejected because extension not found in context 'default'.
+[Mar 26 13:47:26] NOTICE[2278][C-00000008] chan_sip.c: Call from '' (172.19.45.106:5060) to extension '100' rejected because extension not found in context 'default'.
+[Mar 26 13:47:29] WARNING[2278] chan_sip.c: Retransmission timeout reached on transmission ca726adb-23d2-e411-84fe-08606e79f22c@pc-ip.106 for seqno 1 (Critical Response) -- See https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions
+Packet timed out after 32000ms with no response
+[Mar 26 13:47:34] NOTICE[2278][C-00000009] chan_sip.c: Call from '' (172.19.45.106:5060) to extension '100' rejected because extension not found in context 'default'.
+[Mar 26 13:47:58] WARNING[2278] chan_sip.c: Retransmission timeout reached on transmission 1286eeec-23d2-e411-84fe-08606e79f22c@pc-ip.106 for seqno 1 (Critical Response) -- See https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions
+Packet timed out after 32000ms with no response
+[Mar 26 13:48:06] WARNING[2278] chan_sip.c: Retransmission timeout reached on transmission 7acc9ff1-23d2-e411-84fe-08606e79f22c@pc-ip.106 for seqno 1 (Critical Response) -- See https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions
+Packet timed out after 32000ms with no response
+[Mar 26 13:49:30] NOTICE[2278] chan_sip.c: Peer '101' is now Reachable. (1ms / 2000ms)
+[Apr  7 15:07:51] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr  7 15:07:51] NOTICE[2134] cdr.c: CDR simple logging enabled.
+[Apr  7 15:07:51] NOTICE[2134] loader.c: 196 modules will be loaded.
+[Apr  7 15:08:02] NOTICE[2134] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr  7 15:08:03] NOTICE[2134] config.c: Registered Config Engine sqlite3
+[Apr  7 15:08:03] NOTICE[2134] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr  7 15:08:03] NOTICE[2134] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr  7 15:08:03] NOTICE[2134] pbx_ael.c: Starting AEL load process.
+[Apr  7 15:08:03] NOTICE[2134] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr  7 15:08:03] NOTICE[2134] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr  7 15:08:03] NOTICE[2134] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr  7 15:08:03] NOTICE[2134] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr  7 15:08:03] NOTICE[2134] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr  7 15:08:03] ERROR[2134] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr  7 15:08:07] NOTICE[2163] chan_sip.c: Peer '100' is now UNREACHABLE!  Last qualify: 0
+[Apr  7 15:08:07] NOTICE[2163] chan_sip.c: Peer '101' is now UNREACHABLE!  Last qualify: 0
+[Apr  7 16:09:12] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr  7 16:09:12] NOTICE[2340] cdr.c: CDR simple logging enabled.
+[Apr  7 16:09:12] NOTICE[2340] loader.c: 196 modules will be loaded.
+[Apr  7 16:09:16] NOTICE[2340] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr  7 16:09:16] NOTICE[2340] config.c: Registered Config Engine sqlite3
+[Apr  7 16:09:16] NOTICE[2340] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr  7 16:09:16] NOTICE[2340] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr  7 16:09:16] NOTICE[2340] pbx_ael.c: Starting AEL load process.
+[Apr  7 16:09:16] NOTICE[2340] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr  7 16:09:16] NOTICE[2340] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr  7 16:09:16] NOTICE[2340] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr  7 16:09:16] NOTICE[2340] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr  7 16:09:16] NOTICE[2340] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr  7 16:09:16] ERROR[2340] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr  7 16:09:16] NOTICE[2369] chan_sip.c: Peer '100' is now Reachable. (6ms / 2000ms)
+[Apr  7 16:09:16] NOTICE[2369] chan_sip.c: Peer '101' is now Reachable. (8ms / 2000ms)
+[Apr  7 16:16:43] NOTICE[2369] chan_sip.c: Peer '101' is now UNREACHABLE!  Last qualify: 1
+[Apr  7 16:17:35] NOTICE[2369] chan_sip.c: Peer '101' is now Reachable. (7ms / 2000ms)
+[Apr  7 16:21:05] NOTICE[2369] chan_sip.c: Peer '101' is now UNREACHABLE!  Last qualify: 1
+[Apr  7 16:21:42] NOTICE[2369] chan_sip.c: Peer '101' is now Reachable. (1ms / 2000ms)
+[Apr  7 16:23:27] WARNING[2369][C-00000008] chan_sip.c: username mismatch, have <101>, digest has <>
+[Apr  7 16:23:27] NOTICE[2369][C-00000008] chan_sip.c: Failed to authenticate device "rmm5" <sip:rmm5@172.19.45.106>;tag=f81a9352-9fdb-e411-8a7e-08606e79f22c
+[Apr  7 16:25:05] WARNING[2533][C-0000000c] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 16:25:05] WARNING[2533][C-0000000c] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 16:25:05] WARNING[2533][C-0000000c] app_playback.c: ast_streamfile failed on SIP/101-00000010 for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 16:56:34] WARNING[2981][C-00000012] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 16:56:34] WARNING[2981][C-00000012] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 16:56:34] WARNING[2981][C-00000012] app_playback.c: ast_streamfile failed on SIP/100-00000016 for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 16:56:54] WARNING[2988][C-00000013] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 16:56:54] WARNING[2988][C-00000013] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 16:56:54] WARNING[2988][C-00000013] app_playback.c: ast_streamfile failed on SIP/100-00000017 for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 16:57:08] WARNING[2988][C-00000013] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 16:57:08] WARNING[2988][C-00000013] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 16:57:08] WARNING[2988][C-00000013] app_playback.c: ast_streamfile failed on SIP/100-00000017 for if-this-correct-press&digits/1&if-this-is-not-correct&digits/2
+[Apr  7 16:57:17] WARNING[2988][C-00000013] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 16:57:17] WARNING[2988][C-00000013] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 16:57:17] WARNING[2988][C-00000013] app_playback.c: ast_streamfile failed on SIP/100-00000017 for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:04:17] WARNING[2998][C-00000014] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:04:17] WARNING[2998][C-00000014] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:04:17] WARNING[2998][C-00000014] app_playback.c: ast_streamfile failed on SIP/100-00000018 for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:04:41] WARNING[2998][C-00000014] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:04:41] WARNING[2998][C-00000014] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:04:41] WARNING[2998][C-00000014] app_playback.c: ast_streamfile failed on SIP/100-00000018 for if-this-correct-press&digits/1&if-this-is-not-correct&digits/2
+[Apr  7 17:04:48] NOTICE[3014] pbx_spool.c: Call failed to go through, reason (5) Remote end is Busy
+[Apr  7 17:05:40] WARNING[3018][C-00000016] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:05:40] WARNING[3018][C-00000016] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:05:40] WARNING[3018][C-00000016] app_playback.c: ast_streamfile failed on SIP/100-0000001a for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:05:58] WARNING[3018][C-00000016] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:05:58] WARNING[3018][C-00000016] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:05:58] WARNING[3018][C-00000016] app_playback.c: ast_streamfile failed on SIP/100-0000001a for if-this-correct-press&digits/1&if-this-is-not-correct&digits/2
+[Apr  7 17:06:19] WARNING[3024][C-00000017] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:06:19] WARNING[3024][C-00000017] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:06:19] WARNING[3024][C-00000017] app_playback.c: ast_streamfile failed on SIP/100-0000001b for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:06:39] WARNING[3024][C-00000017] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:06:39] WARNING[3024][C-00000017] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:06:39] WARNING[3024][C-00000017] app_playback.c: ast_streamfile failed on SIP/100-0000001b for if-this-correct-press&digits/1&if-this-is-not-correct&digits/2
+[Apr  7 17:06:44] NOTICE[3040] pbx_spool.c: Call failed to go through, reason (5) Remote end is Busy
+[Apr  7 17:08:13] WARNING[3051][C-00000019] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:08:13] WARNING[3051][C-00000019] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:08:13] WARNING[3051][C-00000019] app_playback.c: ast_streamfile failed on SIP/100-0000001d for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:08:36] WARNING[3057][C-0000001a] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:08:36] WARNING[3057][C-0000001a] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:08:36] WARNING[3057][C-0000001a] app_playback.c: ast_streamfile failed on SIP/100-0000001e for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:08:52] WARNING[3063][C-0000001b] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:08:52] WARNING[3063][C-0000001b] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:08:52] WARNING[3063][C-0000001b] app_playback.c: ast_streamfile failed on SIP/100-0000001f for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:09:14] WARNING[3063][C-0000001b] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:09:14] WARNING[3063][C-0000001b] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:09:14] WARNING[3063][C-0000001b] app_playback.c: ast_streamfile failed on SIP/100-0000001f for if-this-correct-press&digits/1&if-this-is-not-correct&digits/2
+[Apr  7 17:09:20] WARNING[3063][C-0000001b] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:09:20] WARNING[3063][C-0000001b] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:09:20] WARNING[3063][C-0000001b] app_playback.c: ast_streamfile failed on SIP/100-0000001f for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:09:36] WARNING[3063][C-0000001b] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:09:36] WARNING[3063][C-0000001b] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:09:36] WARNING[3063][C-0000001b] app_playback.c: ast_streamfile failed on SIP/100-0000001f for if-this-correct-press&digits/1&if-this-is-not-correct&digits/2
+[Apr  7 17:09:40] WARNING[3063][C-0000001b] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:09:40] WARNING[3063][C-0000001b] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:09:40] WARNING[3063][C-0000001b] app_playback.c: ast_streamfile failed on SIP/100-0000001f for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:10:01] WARNING[3063][C-0000001b] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:10:01] WARNING[3063][C-0000001b] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:10:01] WARNING[3063][C-0000001b] app_playback.c: ast_streamfile failed on SIP/100-0000001f for if-this-correct-press&digits/1&if-this-is-not-correct&digits/2
+[Apr  7 17:11:00] NOTICE[3081] pbx_spool.c: Call failed to go through, reason (5) Remote end is Busy
+[Apr  7 17:13:39] WARNING[3111][C-0000001d] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:13:39] WARNING[3111][C-0000001d] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:13:39] WARNING[3111][C-0000001d] app_playback.c: ast_streamfile failed on SIP/100-00000021 for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:14:04] WARNING[3111][C-0000001d] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:14:04] WARNING[3111][C-0000001d] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:14:04] WARNING[3111][C-0000001d] app_playback.c: ast_streamfile failed on SIP/100-00000021 for if-this-correct-press&digits/1&if-this-is-not-correct-press&digits/2
+[Apr  7 17:14:04] WARNING[3111][C-0000001d] file.c: File if-this-is-not-correct-press does not exist in any format
+[Apr  7 17:14:04] WARNING[3111][C-0000001d] file.c: Unable to open if-this-is-not-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:14:04] WARNING[3111][C-0000001d] app_playback.c: ast_streamfile failed on SIP/100-00000021 for if-this-correct-press&digits/1&if-this-is-not-correct-press&digits/2
+[Apr  7 17:14:11] WARNING[3111][C-0000001d] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:14:11] WARNING[3111][C-0000001d] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:14:11] WARNING[3111][C-0000001d] app_playback.c: ast_streamfile failed on SIP/100-00000021 for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:14:34] WARNING[3111][C-0000001d] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:14:34] WARNING[3111][C-0000001d] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:14:34] WARNING[3111][C-0000001d] app_playback.c: ast_streamfile failed on SIP/100-00000021 for if-this-correct-press&digits/1&if-this-is-not-correct-press&digits/2
+[Apr  7 17:14:34] WARNING[3111][C-0000001d] file.c: File if-this-is-not-correct-press does not exist in any format
+[Apr  7 17:14:34] WARNING[3111][C-0000001d] file.c: Unable to open if-this-is-not-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:14:34] WARNING[3111][C-0000001d] app_playback.c: ast_streamfile failed on SIP/100-00000021 for if-this-correct-press&digits/1&if-this-is-not-correct-press&digits/2
+[Apr  7 17:16:10] WARNING[3149][C-0000001e] file.c: File grabacion100 does not exist in any format
+[Apr  7 17:16:10] WARNING[3149][C-0000001e] file.c: Unable to open grabacion100 (format (alaw)): No such file or directory
+[Apr  7 17:16:10] WARNING[3149][C-0000001e] app_playback.c: ast_streamfile failed on SIP/100-00000022 for grabacion100
+[Apr  7 17:16:10] NOTICE[3149] pbx_spool.c: Call completed to SIP/100
+[Apr  7 17:17:10] WARNING[3158][C-0000001f] file.c: File grabacion100 does not exist in any format
+[Apr  7 17:17:10] WARNING[3158][C-0000001f] file.c: Unable to open grabacion100 (format (alaw)): No such file or directory
+[Apr  7 17:17:10] WARNING[3158][C-0000001f] app_playback.c: ast_streamfile failed on SIP/100-00000023 for grabacion100
+[Apr  7 17:17:10] NOTICE[3158] pbx_spool.c: Call completed to SIP/100
+[Apr  7 17:24:23] WARNING[3175][C-00000020] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:24:23] WARNING[3175][C-00000020] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:24:23] WARNING[3175][C-00000020] app_playback.c: ast_streamfile failed on SIP/100-00000024 for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:24:49] WARNING[3175][C-00000020] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:24:49] WARNING[3175][C-00000020] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:24:49] WARNING[3175][C-00000020] app_playback.c: ast_streamfile failed on SIP/100-00000024 for if-this-correct-press&digits/1&if-this-is-not-correct-press&digits/2
+[Apr  7 17:24:49] WARNING[3175][C-00000020] file.c: File if-this-is-not-correct-press does not exist in any format
+[Apr  7 17:24:49] WARNING[3175][C-00000020] file.c: Unable to open if-this-is-not-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:24:49] WARNING[3175][C-00000020] app_playback.c: ast_streamfile failed on SIP/100-00000024 for if-this-correct-press&digits/1&if-this-is-not-correct-press&digits/2
+[Apr  7 17:24:52] NOTICE[3191] pbx_spool.c: Call failed to go through, reason (5) Remote end is Busy
+[Apr  7 17:25:09] WARNING[3196][C-00000022] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:25:09] WARNING[3196][C-00000022] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:25:09] WARNING[3196][C-00000022] app_playback.c: ast_streamfile failed on SIP/100-00000026 for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:25:21] WARNING[3196][C-00000022] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:25:21] WARNING[3196][C-00000022] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:25:21] WARNING[3196][C-00000022] app_playback.c: ast_streamfile failed on SIP/100-00000026 for if-this-correct-press&digits/1&if-this-is-not-correct-press&digits/2
+[Apr  7 17:25:21] WARNING[3196][C-00000022] file.c: File if-this-is-not-correct-press does not exist in any format
+[Apr  7 17:25:21] WARNING[3196][C-00000022] file.c: Unable to open if-this-is-not-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:25:21] WARNING[3196][C-00000022] app_playback.c: ast_streamfile failed on SIP/100-00000026 for if-this-correct-press&digits/1&if-this-is-not-correct-press&digits/2
+[Apr  7 17:25:22] NOTICE[3212] pbx_spool.c: Call failed to go through, reason (5) Remote end is Busy
+[Apr  7 17:25:37] WARNING[3219][C-00000024] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:25:37] WARNING[3219][C-00000024] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:25:37] WARNING[3219][C-00000024] app_playback.c: ast_streamfile failed on SIP/100-00000028 for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:26:02] WARNING[3219][C-00000024] file.c: File if-this-correct-press does not exist in any format
+[Apr  7 17:26:02] WARNING[3219][C-00000024] file.c: Unable to open if-this-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:26:02] WARNING[3219][C-00000024] app_playback.c: ast_streamfile failed on SIP/100-00000028 for if-this-correct-press&digits/1&if-this-is-not-correct-press&digits/2
+[Apr  7 17:26:02] WARNING[3219][C-00000024] file.c: File if-this-is-not-correct-press does not exist in any format
+[Apr  7 17:26:02] WARNING[3219][C-00000024] file.c: Unable to open if-this-is-not-correct-press (format (alaw)): No such file or directory
+[Apr  7 17:26:02] WARNING[3219][C-00000024] app_playback.c: ast_streamfile failed on SIP/100-00000028 for if-this-correct-press&digits/1&if-this-is-not-correct-press&digits/2
+[Apr  7 17:27:15] NOTICE[3275] pbx_spool.c: Call completed to SIP/100
+[Apr  7 17:30:02] NOTICE[3320] pbx_spool.c: Call completed to SIP/100
+[Apr  7 17:30:26] NOTICE[3326] pbx_spool.c: Call failed to go through, reason (5) Remote end is Busy
+[Apr  7 17:32:09] WARNING[3341][C-00000028] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:32:09] WARNING[3341][C-00000028] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:32:09] WARNING[3341][C-00000028] app_playback.c: ast_streamfile failed on SIP/100-0000002c for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:32:40] WARNING[3341][C-00000028] file.c: File astcc-followed-by-the-pond-key does not exist in any format
+[Apr  7 17:32:40] WARNING[3341][C-00000028] file.c: Unable to open astcc-followed-by-the-pond-key (format (alaw)): No such file or directory
+[Apr  7 17:32:40] WARNING[3341][C-00000028] app_playback.c: ast_streamfile failed on SIP/100-0000002c for telephone-number&astcc-followed-by-the-pond-key
+[Apr  7 17:35:22] NOTICE[3364] pbx_spool.c: Call failed to go through, reason (5) Remote end is Busy
+[Apr  7 17:35:26] NOTICE[3366] pbx_spool.c: Call failed to go through, reason (5) Remote end is Busy
+[Apr  7 17:35:26] NOTICE[3366] pbx_spool.c: Queued call to SIP/100 expired without completion after 3 attempts
+[Apr  7 17:39:10] NOTICE[3395] pbx_spool.c: Call completed to SIP/100
+[Apr 14 17:10:40] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr 14 17:10:40] NOTICE[2342] cdr.c: CDR simple logging enabled.
+[Apr 14 17:10:40] NOTICE[2342] loader.c: 196 modules will be loaded.
+[Apr 14 17:10:47] NOTICE[2342] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr 14 17:10:47] NOTICE[2342] config.c: Registered Config Engine sqlite3
+[Apr 14 17:10:47] NOTICE[2342] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr 14 17:10:47] NOTICE[2342] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr 14 17:10:47] NOTICE[2342] pbx_ael.c: Starting AEL load process.
+[Apr 14 17:10:47] NOTICE[2342] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:10:47] NOTICE[2342] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:10:47] NOTICE[2342] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:10:47] NOTICE[2342] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:10:47] NOTICE[2342] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:10:47] ERROR[2342] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr 14 17:10:47] NOTICE[2371] chan_sip.c: Peer '100' is now Reachable. (6ms / 2000ms)
+[Apr 14 17:10:48] NOTICE[2371] chan_sip.c: Peer '101' is now Reachable. (8ms / 2000ms)
+[Apr 14 17:15:52] NOTICE[2371] chan_sip.c: Peer '101' is now UNREACHABLE!  Last qualify: 1
+[Apr 14 17:16:56] NOTICE[2371] chan_sip.c: Peer '101' is now Reachable. (1ms / 2000ms)
+[Apr 14 17:20:59] NOTICE[2371] chan_sip.c: Peer '102' is now Reachable. (1ms / 2000ms)
+[Apr 14 17:21:46] WARNING[2371][C-00000004] chan_sip.c: username mismatch, have <101>, digest has <102>
+[Apr 14 17:21:46] NOTICE[2371][C-00000004] chan_sip.c: Failed to authenticate device "rmm30" <sip:rmm30@172.19.45.106>;tag=948d38a2-27e1-e411-90f0-08606e79f22c
+[Apr 14 17:21:51] WARNING[2371][C-00000005] chan_sip.c: username mismatch, have <101>, digest has <102>
+[Apr 14 17:21:51] NOTICE[2371][C-00000005] chan_sip.c: Failed to authenticate device "rmm30" <sip:rmm30@172.19.45.106>;tag=ce5628a5-27e1-e411-90f0-08606e79f22c
+[Apr 14 17:21:54] WARNING[2371][C-00000006] chan_sip.c: username mismatch, have <101>, digest has <102>
+[Apr 14 17:21:54] NOTICE[2371][C-00000006] chan_sip.c: Failed to authenticate device "rmm30" <sip:rmm30@172.19.45.106>;tag=cae67ca6-27e1-e411-90f0-08606e79f22c
+[Apr 14 17:21:57] WARNING[2371][C-00000007] chan_sip.c: username mismatch, have <101>, digest has <102>
+[Apr 14 17:21:57] NOTICE[2371][C-00000007] chan_sip.c: Failed to authenticate device "rmm30" <sip:rmm30@172.19.45.106>;tag=42829ea8-27e1-e411-90f0-08606e79f22c
+[Apr 14 17:24:10] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr 14 17:24:10] NOTICE[2466] cdr.c: CDR simple logging enabled.
+[Apr 14 17:24:10] NOTICE[2466] loader.c: 196 modules will be loaded.
+[Apr 14 17:24:10] NOTICE[2466] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr 14 17:24:11] NOTICE[2466] config.c: Registered Config Engine sqlite3
+[Apr 14 17:24:11] NOTICE[2466] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr 14 17:24:11] NOTICE[2466] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr 14 17:24:11] NOTICE[2466] pbx_ael.c: Starting AEL load process.
+[Apr 14 17:24:11] NOTICE[2466] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:24:11] NOTICE[2466] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:24:11] NOTICE[2466] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:24:11] NOTICE[2466] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:24:11] NOTICE[2466] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:24:11] ERROR[2466] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr 14 17:24:11] NOTICE[2493] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Apr 14 17:24:11] NOTICE[2493] chan_sip.c: Peer '101' is now Reachable. (1ms / 2000ms)
+[Apr 14 17:24:11] NOTICE[2493] chan_sip.c: Peer '102' is now Reachable. (1ms / 2000ms)
+[Apr 14 17:25:10] WARNING[2493][C-00000000] chan_sip.c: username mismatch, have <101>, digest has <102>
+[Apr 14 17:25:10] NOTICE[2493][C-00000000] chan_sip.c: Failed to authenticate device "rmm30" <sip:rmm30@172.19.45.106>;tag=100d6e1b-28e1-e411-977c-08606e79f22c
+[Apr 14 17:25:12] WARNING[2493][C-00000001] chan_sip.c: username mismatch, have <101>, digest has <102>
+[Apr 14 17:25:12] NOTICE[2493][C-00000001] chan_sip.c: Failed to authenticate device "rmm30" <sip:rmm30@172.19.45.106>;tag=7828fd1c-28e1-e411-977c-08606e79f22c
+[Apr 14 17:25:13] WARNING[2493][C-00000002] chan_sip.c: username mismatch, have <101>, digest has <102>
+[Apr 14 17:25:13] NOTICE[2493][C-00000002] chan_sip.c: Failed to authenticate device "rmm30" <sip:rmm30@172.19.45.106>;tag=e0587d1d-28e1-e411-977c-08606e79f22c
+[Apr 14 17:26:05] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr 14 17:26:05] NOTICE[2510] cdr.c: CDR simple logging enabled.
+[Apr 14 17:26:05] NOTICE[2510] loader.c: 196 modules will be loaded.
+[Apr 14 17:26:05] NOTICE[2510] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr 14 17:26:06] NOTICE[2510] config.c: Registered Config Engine sqlite3
+[Apr 14 17:26:06] NOTICE[2510] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr 14 17:26:06] NOTICE[2510] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr 14 17:26:06] NOTICE[2510] pbx_ael.c: Starting AEL load process.
+[Apr 14 17:26:06] NOTICE[2510] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:26:06] NOTICE[2510] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:26:06] NOTICE[2510] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:26:06] NOTICE[2510] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:26:06] NOTICE[2510] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 14 17:26:06] ERROR[2510] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr 14 17:26:17] NOTICE[2537] chan_sip.c: Peer '102' is now Reachable. (1ms / 2000ms)
+[Apr 14 17:26:36] WARNING[2553][C-00000000] app_dial.c: Unable to create channel of type 'SIP' (cause 20 - Subscriber absent)
+[Apr 14 17:27:03] NOTICE[2537] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Apr 14 17:33:57] NOTICE[2537][C-00000004] chan_sip.c: Call from '102' (172.19.45.106:5060) to extension '172.19.45.122:5020' rejected because extension not found in context 'phones'.
+[Apr 14 17:33:59] NOTICE[2537][C-00000005] chan_sip.c: Call from '102' (172.19.45.106:5060) to extension '172.19.45.122:5020' rejected because extension not found in context 'phones'.
+[Apr 14 17:34:00] NOTICE[2537][C-00000006] chan_sip.c: Call from '102' (172.19.45.106:5060) to extension '172.19.45.122:5020' rejected because extension not found in context 'phones'.
+[Apr 14 17:34:01] NOTICE[2537][C-00000007] chan_sip.c: Call from '102' (172.19.45.106:5060) to extension '172.19.45.122:5020' rejected because extension not found in context 'phones'.
+[Apr 14 17:34:18] NOTICE[2537][C-00000009] chan_sip.c: Call from '102' (172.19.45.106:5060) to extension '172.19.45.122:5020' rejected because extension not found in context 'phones'.
+[Apr 14 17:34:19] NOTICE[2537][C-0000000a] chan_sip.c: Call from '102' (172.19.45.106:5060) to extension '172.19.45.122:5020' rejected because extension not found in context 'phones'.
+[Apr 14 17:36:19] NOTICE[2537][C-0000000f] chan_sip.c: Call from '102' (172.19.45.106:5060) to extension '172.19.45.122:5020' rejected because extension not found in context 'phones'.
+[Apr 14 17:37:21] NOTICE[2537] chan_sip.c: Peer '102' is now UNREACHABLE!  Last qualify: 1
+[Apr 14 17:38:26] NOTICE[2537] chan_sip.c: Peer '102' is now Reachable. (1ms / 2000ms)
+[Apr 16 09:26:01] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr 16 09:26:01] NOTICE[2125] cdr.c: CDR simple logging enabled.
+[Apr 16 09:26:01] NOTICE[2125] loader.c: 196 modules will be loaded.
+[Apr 16 09:26:06] NOTICE[2125] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr 16 09:26:06] NOTICE[2125] config.c: Registered Config Engine sqlite3
+[Apr 16 09:26:06] NOTICE[2125] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr 16 09:26:06] NOTICE[2125] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr 16 09:26:06] NOTICE[2125] pbx_ael.c: Starting AEL load process.
+[Apr 16 09:26:06] NOTICE[2125] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:26:06] NOTICE[2125] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:26:06] NOTICE[2125] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:26:06] NOTICE[2125] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:26:06] NOTICE[2125] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:26:06] ERROR[2125] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr 16 09:26:10] NOTICE[2154] chan_sip.c: Peer '100' is now UNREACHABLE!  Last qualify: 0
+[Apr 16 09:26:10] NOTICE[2154] chan_sip.c: Peer '102' is now UNREACHABLE!  Last qualify: 0
+[Apr 16 09:32:26] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr 16 09:32:26] NOTICE[2377] cdr.c: CDR simple logging enabled.
+[Apr 16 09:32:26] NOTICE[2377] loader.c: 196 modules will be loaded.
+[Apr 16 09:32:26] NOTICE[2377] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr 16 09:32:26] NOTICE[2377] config.c: Registered Config Engine sqlite3
+[Apr 16 09:32:26] NOTICE[2377] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr 16 09:32:26] NOTICE[2377] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr 16 09:32:26] NOTICE[2377] pbx_ael.c: Starting AEL load process.
+[Apr 16 09:32:26] NOTICE[2377] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:32:26] NOTICE[2377] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:32:26] NOTICE[2377] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:32:26] NOTICE[2377] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:32:26] NOTICE[2377] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:32:26] ERROR[2377] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr 16 09:32:30] NOTICE[2404] chan_sip.c: Peer '100' is now UNREACHABLE!  Last qualify: 0
+[Apr 16 09:32:31] NOTICE[2404] chan_sip.c: Peer '102' is now UNREACHABLE!  Last qualify: 0
+[Apr 16 09:34:55] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr 16 09:34:55] NOTICE[2484] cdr.c: CDR simple logging enabled.
+[Apr 16 09:34:55] NOTICE[2484] loader.c: 196 modules will be loaded.
+[Apr 16 09:34:56] NOTICE[2484] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr 16 09:34:57] NOTICE[2484] config.c: Registered Config Engine sqlite3
+[Apr 16 09:34:58] NOTICE[2484] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr 16 09:34:58] NOTICE[2484] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr 16 09:34:58] NOTICE[2484] pbx_ael.c: Starting AEL load process.
+[Apr 16 09:34:58] NOTICE[2484] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:34:58] NOTICE[2484] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:34:58] NOTICE[2484] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:34:58] NOTICE[2484] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:34:58] NOTICE[2484] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:34:58] ERROR[2484] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr 16 09:35:02] NOTICE[2513] chan_sip.c: Peer '100' is now UNREACHABLE!  Last qualify: 0
+[Apr 16 09:35:02] NOTICE[2513] chan_sip.c: Peer '102' is now UNREACHABLE!  Last qualify: 0
+[Apr 16 09:55:26] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr 16 09:55:26] NOTICE[2141] cdr.c: CDR simple logging enabled.
+[Apr 16 09:55:26] NOTICE[2141] loader.c: 196 modules will be loaded.
+[Apr 16 09:55:30] NOTICE[2141] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr 16 09:55:30] NOTICE[2141] config.c: Registered Config Engine sqlite3
+[Apr 16 09:55:30] NOTICE[2141] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr 16 09:55:30] NOTICE[2141] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr 16 09:55:30] NOTICE[2141] pbx_ael.c: Starting AEL load process.
+[Apr 16 09:55:30] NOTICE[2141] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:55:30] NOTICE[2141] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:55:30] NOTICE[2141] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:55:30] NOTICE[2141] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:55:30] NOTICE[2141] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 09:55:30] ERROR[2141] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr 16 09:55:34] NOTICE[2170] chan_sip.c: Peer '100' is now UNREACHABLE!  Last qualify: 0
+[Apr 16 09:55:34] NOTICE[2170] chan_sip.c: Peer '102' is now UNREACHABLE!  Last qualify: 0
+[Apr 16 09:57:02] NOTICE[2170] chan_sip.c: Peer '103' is now Reachable. (1ms / 2000ms)
+[Apr 16 09:58:15] NOTICE[2170] chan_sip.c: Peer '102' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:00:58] NOTICE[2170] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:01:18] WARNING[2170][C-00000003] chan_sip.c: username mismatch, have <103>, digest has <100>
+[Apr 16 10:01:18] NOTICE[2170][C-00000003] chan_sip.c: Failed to authenticate device "rmm35" <sip:rmm35@172.19.45.36>;tag=98d8766e-7ce2-e411-8c57-00242116d0a9
+[Apr 16 10:01:24] WARNING[2170][C-00000004] chan_sip.c: username mismatch, have <103>, digest has <100>
+[Apr 16 10:01:24] NOTICE[2170][C-00000004] chan_sip.c: Failed to authenticate device "rmm35" <sip:rmm35@172.19.45.36>;tag=7298ca71-7ce2-e411-8c57-00242116d0a9
+[Apr 16 10:01:25] WARNING[2170][C-00000005] chan_sip.c: username mismatch, have <103>, digest has <100>
+[Apr 16 10:01:25] NOTICE[2170][C-00000005] chan_sip.c: Failed to authenticate device "rmm35" <sip:rmm35@172.19.45.36>;tag=e056c072-7ce2-e411-8c57-00242116d0a9
+[Apr 16 10:02:06] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr 16 10:02:06] NOTICE[2314] cdr.c: CDR simple logging enabled.
+[Apr 16 10:02:06] NOTICE[2314] loader.c: 196 modules will be loaded.
+[Apr 16 10:02:06] NOTICE[2314] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr 16 10:02:06] NOTICE[2314] config.c: Registered Config Engine sqlite3
+[Apr 16 10:02:06] NOTICE[2314] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr 16 10:02:06] NOTICE[2314] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr 16 10:02:06] NOTICE[2314] pbx_ael.c: Starting AEL load process.
+[Apr 16 10:02:06] NOTICE[2314] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:02:06] NOTICE[2314] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:02:06] NOTICE[2314] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:02:06] NOTICE[2314] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:02:06] NOTICE[2314] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:02:06] ERROR[2314] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr 16 10:02:06] NOTICE[2341] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:02:06] NOTICE[2341] chan_sip.c: Peer '102' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:10:25] NOTICE[2341] chan_sip.c: Peer '104' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:12:42] WARNING[2407][C-00000002] app_dial.c: Dial argument takes format (technology/resource)
+[Apr 16 10:12:58] WARNING[2418][C-00000003] app_dial.c: Dial argument takes format (technology/resource)
+[Apr 16 10:13:14] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr 16 10:13:14] NOTICE[2430] cdr.c: CDR simple logging enabled.
+[Apr 16 10:13:14] NOTICE[2430] loader.c: 196 modules will be loaded.
+[Apr 16 10:13:14] NOTICE[2430] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr 16 10:13:14] NOTICE[2430] config.c: Registered Config Engine sqlite3
+[Apr 16 10:13:14] NOTICE[2430] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr 16 10:13:14] NOTICE[2457] chan_sip.c: Peer '104' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:13:14] NOTICE[2430] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr 16 10:13:14] NOTICE[2430] pbx_ael.c: Starting AEL load process.
+[Apr 16 10:13:14] NOTICE[2430] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:13:14] NOTICE[2430] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:13:14] NOTICE[2430] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:13:14] NOTICE[2430] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:13:14] NOTICE[2430] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:13:14] ERROR[2430] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr 16 10:13:14] NOTICE[2457] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:13:14] NOTICE[2457] chan_sip.c: Peer '102' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:13:49] WARNING[2488][C-00000000] app_dial.c: Dial argument takes format (technology/resource)
+[Apr 16 10:14:06] WARNING[2500][C-00000001] app_dial.c: Dial argument takes format (technology/resource)
+[Apr 16 10:25:52] NOTICE[2457] chan_sip.c: Peer '103' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:28:21] Asterisk 11.7.0 built by rmm35 @ flauta on a i686 running Linux on 2015-03-24 14:36:33 UTC
+[Apr 16 10:28:21] NOTICE[2630] cdr.c: CDR simple logging enabled.
+[Apr 16 10:28:21] NOTICE[2630] loader.c: 196 modules will be loaded.
+[Apr 16 10:28:21] NOTICE[2630] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Apr 16 10:28:21] NOTICE[2630] config.c: Registered Config Engine sqlite3
+[Apr 16 10:28:21] NOTICE[2630] chan_skinny.c: Configuring skinny from skinny.conf
+[Apr 16 10:28:21] NOTICE[2657] chan_sip.c: Peer '104' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:28:21] NOTICE[2630] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Apr 16 10:28:21] NOTICE[2630] pbx_ael.c: Starting AEL load process.
+[Apr 16 10:28:21] NOTICE[2630] pbx_ael.c: AEL load process: parsed config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:28:21] NOTICE[2630] pbx_ael.c: AEL load process: checked config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:28:21] NOTICE[2630] pbx_ael.c: AEL load process: compiled config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:28:21] NOTICE[2630] pbx_ael.c: AEL load process: merged config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:28:21] NOTICE[2630] pbx_ael.c: AEL load process: verified config file name '/home/clave/labs/rmm/rmm35/root/etc/asterisk/extensions.ael'.
+[Apr 16 10:28:21] ERROR[2630] codec_dahdi.c: Failed to open /dev/dahdi/transcode: No such file or directory
+[Apr 16 10:28:21] NOTICE[2657] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:28:21] NOTICE[2657] chan_sip.c: Peer '102' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:28:21] NOTICE[2657] chan_sip.c: Peer '103' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:31:46] NOTICE[2657] chan_sip.c: Peer '103' is now Reachable. (17ms / 2000ms)
+[Apr 16 10:31:46] NOTICE[2657] chan_sip.c: Peer '100' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:31:55] NOTICE[2657] chan_sip.c: Peer '102' is now Reachable. (1ms / 2000ms)
+[Apr 16 10:33:45] WARNING[2730][C-00000002] app_dial.c: Dial argument takes format (technology/resource)

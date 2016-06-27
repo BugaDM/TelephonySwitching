@@ -1,0 +1,101 @@
+[general]
+context=default
+bindaddr=0.0.0.0:5020
+language=es
+realm=labs.det.uvigo.es
+
+[my_codecs](!)
+disallow=all
+allow=alaw,gsm
+
+[softphones](!,my_codecs)
+type=friend
+context=phones
+host=dynamic
+deny=0.0.0.0/0
+permit=172.19.45.0/255.255.255.0
+qualify=yes
+
+[100](softphones)
+callerid=NOMBREUSUARIO <100>
+secret=clave
+
+[101](softphones)
+callerid=NOMBREUSUARIO <101>
+secret=clave
+
+[102](softphones)
+callerid=NOMBREUSUARIO <102>
+secret=clave
+
+[103](softphones)
+callerid=NOMBREUSUARIO <103>
+secret=clave
+
+[104](softphones)
+callerid=NOMBREUSUARIO <104>
+secret=clave
+
+[104](softphones)
+callerid=NOMBREUSUARIO <104>
+secret=clave
+
+[105](softphones)
+callerid=NOMBREUSUARIO <105>
+secret=clave
+
+[106](softphones)
+callerid=NOMBREUSUARIO <106>
+secret=clave
+
+[107](softphones)
+callerid=NOMBREUSUARIO <107>
+secret=clave
+
+[108](softphones)
+callerid=NOMBREUSUARIO <108>
+secret=clave
+
+[109](softphones)
+callerid=NOMBREUSUARIO <109>
+secret=clave
+
+[110](softphones)
+callerid=NOMBREUSUARIO <110>
+secret=clave
+
+[111](softphones)
+callerid=NOMBREUSUARIO <111>
+secret=clave
+
+[112](softphones)
+callerid=NOMBREUSUARIO <112>
+secret=clave
+
+[113](softphones)
+callerid=NOMBREUSUARIO <113>
+secret=clave
+
+[114](softphones)
+callerid=NOMBREUSUARIO <114>
+secret=clave
+
+[115](softphones)
+callerid=NOMBREUSUARIO <115>
+secret=clave
+
+[116](softphones)
+callerid=NOMBREUSUARIO <116>
+secret=clave
+
+[117](softphones)
+callerid=NOMBREUSUARIO <117>
+secret=clave
+
+[118](softphones)
+callerid=NOMBREUSUARIO <118>
+secret=clave
+
+[119](softphones)
+callerid=NOMBREUSUARIO <119>
+secret=clave

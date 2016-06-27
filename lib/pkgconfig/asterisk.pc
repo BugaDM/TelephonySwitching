@@ -1,0 +1,17 @@
+install_prefix=
+version_number=110700
+etcdir=/home/clave/labs/rmm/rmm35/root/etc/asterisk
+libdir=/home/clave/labs/rmm/rmm35/root/lib
+varlibdir=/home/clave/labs/rmm/rmm35/root/var/lib/asterisk
+varrundir=/home/clave/labs/rmm/rmm35/root/var/run/asterisk
+spooldir=/home/clave/labs/rmm/rmm35/root/var/spool/asterisk
+logdir=/home/clave/labs/rmm/rmm35/root/var/log/asterisk
+confpath=/home/clave/labs/rmm/rmm35/root/etc/asterisk/asterisk.conf
+moddir=/home/clave/labs/rmm/rmm35/root/lib/asterisk/modules
+agidir=/home/clave/labs/rmm/rmm35/root/var/lib/asterisk/agi-bin
+
+Name: asterisk
+Description: Open Source PBX and telephony toolkit
+Version: 11.7.0
+Libs: 
+Cflags: -g3

@@ -1,0 +1,18 @@
+;
+; Message Information file
+;
+[message]
+origmailbox=103
+context=phones
+macrocontext=
+exten=103
+rdnis=unknown
+priority=7
+callerchan=SIP/102-00000003
+callerid="USER102" <102>
+origdate=Thu Apr 16 08:37:51 AM UTC 2015
+origtime=1429173471
+category=
+msg_id=1429173471-00000000
+flag=
+duration=50
